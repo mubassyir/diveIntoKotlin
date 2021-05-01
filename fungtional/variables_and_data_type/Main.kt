@@ -3,7 +3,7 @@ package fungtional.variables_and_data_type
 fun main(){
     val main = Main()
     println(main.tipeDataFloat)
-    println(main.tipeDataFloat)
+    println(main.tipeDataInteger)
     println(main.tipeDataString)
     main.tipeDataFloat = 3.7
     println(main.tipeDataFloat)
